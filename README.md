@@ -197,18 +197,3 @@ ModelScore(
 
 Then add strengths/weaknesses in `src/analysis.py` under `STRENGTHS_WEAKNESSES`.
 
----
-
-## 📚 Data Sources
-
-Scores are derived from publicly available benchmarks:
-
-- **MMLU** (Massive Multitask Language Understanding)
-- **HumanEval** (Code generation)
-- **TruthfulQA** (Factual accuracy & hallucination)
-- **MT-Bench** (Multi-turn instruction following)
-- **BIG-Bench Hard** (Challenging reasoning tasks)
-- **HellaSwag** (Commonsense reasoning)
-- **MATH** (Mathematical problem solving)
-- **SWE-Bench** (Software engineering tasks)
-
